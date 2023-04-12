@@ -30,6 +30,5 @@ function secondHighest(arr) {
 }
 
 // example usage
-console.log(secondHighest([1, 2, 3, 4, 5])); // output: 4
-console.log(secondHighest([1, 1, 1])); // output: -Infinity
-console.log(secondHighest([5])); // output: -Infinity
+console.log(secondHighest([arr])); // output: 4
+ // output: -Infinity
